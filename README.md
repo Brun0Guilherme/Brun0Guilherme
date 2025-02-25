@@ -11,6 +11,6 @@
 
 
 </br></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brun0guilherme&show_icons=true&locale=en&layout=compact" alt="brun0guilherme" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Brun0Guilherme&show_icons=true&theme=tokyonight" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Guilherme&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 
